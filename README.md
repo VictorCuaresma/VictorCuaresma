@@ -10,3 +10,11 @@
 - 📫 How to reach me **victor.cuaresma@vallegrande.edu.pe**
 
 - 🌱 I’m currently learning **SQL, AWS, SSH**
+
+
+<div align="left">
+    <h3>🔨 Languages and Tools:</h3>
+<div>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.mindphp.com%2Fforums%2Fviewtopic.php%3Fp%3D217804&psig=AOvVaw0B65w1WyanOtt7KJAvvytC&ust=1680219532605000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiXl9Wngv4CFQAAAAAdAAAAABAI" title="CSS3" 
+
+</div>
